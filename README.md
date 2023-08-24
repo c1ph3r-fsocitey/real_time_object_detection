@@ -2,7 +2,7 @@
 
 Here is a program made in python to track and detect objects in real time
 
-## Usage of program 
+## Steps to use the code
 
 These are the steps to use the program 
 
