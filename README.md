@@ -1,6 +1,6 @@
 # Real Time Object Detection
 
-Here is a program made in python to track and detect objects in real time
+This is a Script made in Python to detect objects in real time using Yolo v8
 
 ## Steps to use the code
 
